@@ -10,10 +10,10 @@ display : flex; /* block 요소 */
 display : inline-flex; /* inline 요소 */
 
 /* flex-direction - 주축 설정 */
-flex-directon : row; /* 행축(좌->우) */
-flex-directon : row-reverse; /* 행축(우->좌) */
-flex-directon : column; /* 열축(위->아래) */
-flex-directon : column-reverse; /* 열축(아래->위) */
+flex-direction : row; /* 행축(좌->우) */
+flex-direction : row-reverse; /* 행축(우->좌) */
+flex-direction : column; /* 열축(위->아래) */
+flex-direction : column-reverse; /* 열축(아래->위) */
 
 /* flex-wrap - 줄바꿈 여부 */
 flex-wrap : nowrap; /* 줄바꿈 X */
